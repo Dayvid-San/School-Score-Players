@@ -1,0 +1,18 @@
+body,html{
+    background-color: rgb(218, 213, 213);
+}
+header{
+    position: absolute;
+    top: 0;
+    left: 0%;
+    width: 100%;
+    height: 3em;
+
+    border: solid;
+}
+nav{
+    position: relative;
+    top: 5%;
+ 
+
+}
