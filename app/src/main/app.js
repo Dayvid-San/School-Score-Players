@@ -33,23 +33,27 @@ const flash = require('connect-flash')
 
     // EJS
     app.set('view engine', 'ejs')
-    app.use(express.static(__dirname + '/public'));
-
+    
 // Rotes
 app.use('/user', admin)
 
 app.post('/newuser', (req,res)=>{
-// Adiciona novos usuarios
+    // Adiciona novos usuarios
     // Validando inscricao de nova conta
     
 })
 
+app.get('/cadastro',(req,res)=>{
+    res.render('../views/pages/sigin')
+})
+
 app.get('/', (req, res)=>{
-    res.render('../views//pages/index')
+    res.render('../views/pages/index')
 })
 
 
 // Outros
+app.use(express.static(__dirname + '/public'));
 const PORT = 8080
 app.listen(PORT, ()=>{
     console.log('The server is working on ' + PORT)
