@@ -33,6 +33,7 @@ const flash = require('connect-flash')
 
     // EJS
     app.set('view engine', 'ejs')
+    app.use(express.static(__dirname + '/public'));
 
 // Rotes
 app.use('/user', admin)
