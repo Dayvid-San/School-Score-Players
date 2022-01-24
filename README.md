@@ -1,10 +1,11 @@
 # School Score
 Rank, desafios, centro de links e jogo de mundo aberto.
+A ideia do app é fazer com que os estudantes tenham um único lugar ligado a todas as ferramentas necessárias, que se interessem pelos assuntos abordados e que possam usar esses conhecimentos na prática apartir do ambiente virtual.
 
 ![School_score_Home](https://user-images.githubusercontent.com/77745454/150705029-cd6096e5-d7ed-4037-8900-6c1d0e8d39b0.png)
 
 ### Rank
-Os ranks são classificações que dão vantagens nos desafios dos jogo de mundo aberto. Os ranks são:
+Os ranks são classificações que dão vantagens nos desafios dos jogo de mundo aberto. São eles:
 - Lixo
 - Guerreiro
 - Soldado
@@ -21,7 +22,7 @@ Os pontos para o rank vão ser obtidos apartir de desafios propostos de acordo o
 O app vai conectar o usuário a plataforma deretamente através de botões, imagens e links personalizados.
 
 ## O Jogo
-O jogo é por onde os usuários interagens e cumprem desafios no mundo aberto.
+O jogo é por onde os usuários interagem e cumprem desafios no mundo aberto.
 
 
 ## Customização
