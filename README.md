@@ -1,6 +1,6 @@
 # School Score
 Rank, desafios, centro de links e jogo de mundo aberto.
-A ideia do app é fazer com que os estudantes tenham um único lugar ligado a todas as ferramentas necessárias, que se interessem pelos assuntos abordados e que possam usar esses conhecimentos na prática apartir do ambiente virtual.
+A ideia do app é fazer com que os estudantes tenham um único lugar ligado a todas as ferramentas necessárias para os estudos, que se interessem pelos assuntos abordados e que possam usar esses conhecimentos na prática apartir do ambiente virtual.
 
 ![School_score_Home](https://user-images.githubusercontent.com/77745454/150705029-cd6096e5-d7ed-4037-8900-6c1d0e8d39b0.png)
 
@@ -54,7 +54,7 @@ O usuário clicará em <strong>Adicionar botão</strong>, digitará o nome do bo
 
 **Front-end:** EJS, Figma
 
-**Back-end:** Node, Express, Mogoose,
+**Back-end:** NodeJS, Express, Mogoose,
 
 
 

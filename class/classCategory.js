@@ -11,19 +11,19 @@ class CategoryUser extends User{
     }
 
     #peso(periodo){
-        if (periodo === 'ef'){
+        if (periodo === 'ef'){  // Ensino fundamental
             this.peso = 1
         }
-        else if (periodo === 'gn'){
+        else if (periodo === 'gn'){ // Ginasio
             this.peso = 2
         }
-        else if (periodo === 'em'){
+        else if (periodo === 'em'){ // Ensino médio
             this.peso = 7
         }
-        else if (periodo === 'es'){
+        else if (periodo === 'es'){ // Ensino superios
             this.peso = 12
         }
-        else if (periodo === 'mt'){
+        else if (periodo === 'mt'){ // Mestrado
             this.peso = 18
         }
     }
@@ -58,13 +58,12 @@ class CategoryUser extends User{
             this.nivel
             return this.hank = 'Lenda'
         }
-        else if (soluta <= 580){
-            this.nivel
-            return this.hank = 'Mítico'
-        }
         else {
             this.nivel 
-            return this.hank = 'Celeste'
+            return this.hank = 'Mítico'
         }
     }
 }
+
+
+module.exports = CategoryUser
