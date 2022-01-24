@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
-const admin = require('./routes/admin')
 const mongoose = require('mongoose')
-const path = require('path')
 const session = require('express-session')
 const flash = require('connect-flash')
 
@@ -15,7 +13,7 @@ const flash = require('connect-flash')
         saveUninitialized: true
     }))
     app.use(flash())
-
+    
     // Middleware
     app.use((req,res,next)=>{
         res.locals.sucess_msg = req.flash('success_msg')
@@ -31,11 +29,13 @@ const flash = require('connect-flash')
         console.log('There any problem on connection. Check it! => '+err)
     })
 
+    // CSS
+    app.use(express.static(__dirname + '/public'))
+
     // EJS
     app.set('view engine', 'ejs')
     
 // Rotes
-app.use('/user', admin)
 
 app.post('/newuser', (req,res)=>{
     // Adiciona novos usuarios
@@ -53,8 +53,7 @@ app.get('/', (req, res)=>{
 
 
 // Outros
-app.use(express.static(__dirname + '/public'));
-const PORT = 8080
-app.listen(PORT, ()=>{
-    console.log('The server is working on ' + PORT)
-})
+
+
+
+module.exports = app
