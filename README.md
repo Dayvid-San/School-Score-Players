@@ -3,6 +3,18 @@ Rank, desafios, centro de links e jogo de mundo aberto.
 
 ![School_score_Home](https://user-images.githubusercontent.com/77745454/150705029-cd6096e5-d7ed-4037-8900-6c1d0e8d39b0.png)
 
+## Rank
+Os ranks são classificações que dão vantagens nos desafios dos jogo de mundo aberto. Os ranks são:
+- Lixo
+- Guerreiro
+- Soldado
+- Elite
+- Mestre
+- Heroi
+- Lenda
+- Mítico
+
+Todos os iniciantes começam no nível lixo. Os nomes ainda vão ser discutidos
 
 ## Customização
 School Score já oferece temas prontos, mas o usuário poderá personalizar
