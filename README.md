@@ -51,7 +51,7 @@ O usuário clicará em <strong>Adicionar botão</strong>, digitará o nome do bo
 
 ## Stack utilizada
 
-**Front-end:** EJS
+**Front-end:** EJS, Figma
 
 **Back-end:** Node, Express, Mogoose,
 
