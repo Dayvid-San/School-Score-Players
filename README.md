@@ -1,9 +1,9 @@
-# Scholl Score
+# School Score
 Rank, desafios, centro de links e jogo de mundo aberto.
 
 ![School_score_Home](https://user-images.githubusercontent.com/77745454/150705029-cd6096e5-d7ed-4037-8900-6c1d0e8d39b0.png)
 
-## Rank
+### Rank
 Os ranks são classificações que dão vantagens nos desafios dos jogo de mundo aberto. Os ranks são:
 - Lixo
 - Guerreiro
@@ -14,7 +14,15 @@ Os ranks são classificações que dão vantagens nos desafios dos jogo de mundo
 - Lenda
 - Mítico
 
-Todos os iniciantes começam no nível lixo. Os nomes ainda vão ser discutidos
+Todos os iniciantes começam no nível lixo. Os nomes ainda vão ser discutidos.
+Os pontos para o rank vão ser obtidos apartir de desafios propostos de acordo o nível escolar do usuário.
+
+### Links
+O app vai conectar o usuário a plataforma deretamente através de botões, imagens e links personalizados.
+
+## O Jogo
+O jogo é por onde os usuários interagens e cumprem desafios no mundo aberto.
+
 
 ## Customização
 School Score já oferece temas prontos, mas o usuário poderá personalizar
@@ -29,7 +37,7 @@ School Score já oferece temas prontos, mas o usuário poderá personalizar
 - Cores
 
 ### Botões
-#### Botões constomizados
+#### Botões personalizados
 O usuário terá um número em espaço para os botões.
 O que pode ser costumizado nos botões é:
 - texto
