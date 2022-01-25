@@ -1,0 +1,27 @@
+@media screen and (max-width: 450px){
+    .aguia{
+        display: none;
+    }
+    main{
+        justify-content: center;
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+        min-height: 10em;
+    }
+    .card{
+        position: relative;
+        
+    }
+    .btns{
+        position: relative;
+    }
+    .frase-logo{
+        position: relative;
+        font-size: 23px;
+    }
+    .logotipo{
+        position: relative;
+        top: 30%;
+    }
+}

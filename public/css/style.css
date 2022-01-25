@@ -46,7 +46,7 @@ body{
 .logotipo{
     position: absolute;
     top: 14%;
-    left: 6%;
+    left: 10%;
     text-align: center;
 }
 .aguia{
@@ -65,20 +65,3 @@ body{
     color: #fff;
 }
 
-@media screen and (max-width: 450px){
-    .aguia{
-        display: none;
-    }
-    main{
-        text-align: center;
-    }
-    .card{
-        left: 23%;
-    }
-    .frase-logo{
-        font-size: 33px;
-    }
-    .logotipo{
-        top: 30%;
-    }
-}
