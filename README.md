@@ -5,7 +5,7 @@ A ideia do app é fazer com que os estudantes tenham um único lugar ligado a to
 ![School_score_Home](https://user-images.githubusercontent.com/77745454/150705029-cd6096e5-d7ed-4037-8900-6c1d0e8d39b0.png)
 
 ### Rank
-Os ranks são classificações que dão vantagens nos desafios dos jogo de mundo aberto. São eles:
+Os ranks são classificações que dão vantagens nos desafios do jogo de mundo aberto. São eles:
 - Lixo
 - Guerreiro
 - Soldado
@@ -16,13 +16,20 @@ Os ranks são classificações que dão vantagens nos desafios dos jogo de mundo
 - Mítico
 
 Todos os iniciantes começam no nível lixo. Os nomes ainda vão ser discutidos.
-Os pontos para o rank vão ser obtidos apartir de desafios propostos de acordo o nível escolar do usuário.
+Os pontos para o rank são obtidos apartir de desafios e testes propostos de acordo o nível escolar do usuário.
+
+### Teste de verificação
+São pequenas atividades que são acessadas caso o usuário deseje obter mais pontos sem precisar cumprir desafios no mapa
 
 ### Links
 O app vai conectar o usuário a plataforma deretamente através de botões, imagens e links personalizados.
 
+
 ## O Jogo
 O jogo é por onde os usuários interagem e cumprem desafios no mundo aberto.
+
+### Os desafios
+No mapa do jogo, estará espalhados muitos desafios em que os usuários teram que resolver usando seus conhecimentos para solucionar os problemas
 
 
 ## Customização
