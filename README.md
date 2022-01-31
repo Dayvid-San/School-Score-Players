@@ -22,7 +22,7 @@ Os pontos para o rank são obtidos apartir de desafios e testes propostos de aco
 São pequenas atividades que são acessadas caso o usuário deseje obter mais pontos sem precisar cumprir desafios no mapa
 
 ### Links
-O app vai conectar o usuário a plataforma deretamente através de botões, imagens e links personalizados.
+O app vai conectar o usuário deretamente as plataformas e ferramentas de estudo através de botões, imagens e links personalizados.
 
 
 ## O Jogo
