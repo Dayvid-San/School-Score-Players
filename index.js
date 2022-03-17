@@ -40,9 +40,9 @@ const flash = require('connect-flash')
 app.get('/', (req, res)=>{
     res.render('../views/pages/index')
 })
-app.get('/cadastro',(req,res)=>{
-    res.render('../views/pages/sigin')
-})
+
+
+
 app.post('/newuser', (req,res)=>{
     // Adiciona novos usuarios
     // Validando inscricao de nova conta

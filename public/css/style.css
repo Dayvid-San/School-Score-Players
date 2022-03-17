@@ -1,6 +1,17 @@
 body{
     background-color: #03588C;
 }
+.singin{
+    position: absolute;
+    align-items: center;
+    width: 1vw;
+    height: 1vh;
+    z-index: 5;
+}
+.singinform{
+    position: relative;
+    display: block;
+}
 .card{
     position: absolute;
     top: 45%;
