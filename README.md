@@ -1,6 +1,14 @@
 # School Score
+O School Score é baseado em um projeto pessoal feito para me ajudar nas demandas universitária. A intensão aqui é que você contribua com funcionalidades que possam ajudar os usuários e também que adicione melhorias que achar importante. Aproveite e se divirta 😃
+<br>
+<br>
 Rank, desafios, centro de links e jogo de mundo aberto.
 A ideia do app é fazer com que os estudantes tenham um único lugar ligado a todas as ferramentas necessárias para os estudos, que se interessem pelos assuntos abordados e que possam usar esses conhecimentos na prática apartir do ambiente virtual.
+
+- [ ] Pontos e ranks
+- [ ] Personalização
+- [ ] Interação entre os usuários
+- [ ] Apresentação de cursos e aulas do usuários
 
 ![School_score_Home](https://user-images.githubusercontent.com/77745454/150705029-cd6096e5-d7ed-4037-8900-6c1d0e8d39b0.png)
 
@@ -32,6 +40,9 @@ O jogo é por onde os usuários interagem e cumprem desafios no mundo aberto.
 No mapa do jogo, estará espalhados muitos desafios em que os usuários teram que resolver usando seus conhecimentos para solucionar os problemas
 
 
+## Aulas
+Ambientes ondes os alunos dão aula
+
 ## Customização
 School Score já oferece temas prontos, mas o usuário poderá personalizar
 
@@ -59,9 +70,9 @@ O usuário clicará em <strong>Adicionar botão</strong>, digitará o nome do bo
 
 ## Stack utilizada
 
-**Front-end:** EJS, Figma
+**Front-end:** EJS, Figma, ReactJS
 
-**Back-end:** NodeJS, Express, Mogoose,
+**Back-end:** NodeJS, Express, Mogoose
 
 
 
