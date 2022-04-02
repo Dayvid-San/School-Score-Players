@@ -7,16 +7,16 @@ A ideia do app é fazer com que os estudantes tenham um único lugar ligado a to
 
 
 ### Objetivos
-##### Página inicial
-- [ ] Login e Singin
+- Página inicial
+    - [ ] Login e Singin
 
-##### Home do usuário
-- [ ] Pontos e ranks
-- [ ] Personalização
+- Home do usuário
+    - [ ] Pontos e ranks
+    - [ ] Personalização
 
-##### Jogo
-- [ ] Interação entre os usuários
-- [ ] Apresentação de cursos e aulas do usuários
+- Jogo
+    - [ ] Interação entre os usuários
+    - [ ] Apresentação de cursos e aulas do usuários
 
 
 ### Não se perca!
