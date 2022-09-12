@@ -1,5 +1,5 @@
 # School Score
-O School Score é baseado em um projeto pessoal feito para me ajudar nas demandas universitárias. A intensão aqui é que você contribua com funcionalidades que possam ajudar os usuários e também que adicione melhorias que achar importante. As imagens contidas no projeto são temporárias e podem ser auteradas. Aproveite e se divirta! 😃
+O School Score é baseado em um projeto pessoal feito para me ajudar nas demandas universitárias. A intensão aqui é que você contribua com funcionalidades que possam ajudar os usuários e também que adicione melhorias que achar importante. As imagens contidas no projeto são temporárias e podem ser alteradas. Aproveite e se divirta! 😃
 <br>
 <br>
 Rank, desafios, centro de links e jogo de mundo aberto.
@@ -43,8 +43,8 @@ A página principal contém o botão de Login (Já tenho uma conta) e o de Singi
 
 A tela de login recebe o email e a senha do usuário enquanto que o singin recebe também o Nome de Usuário
 <div style="display: inline; align-items: center;">
-    <img style="width: 50%;" src="https://user-images.githubusercontent.com/77745454/158733685-a30bbfd6-ef35-4001-864e-7643e6ed9bc0.png" alt="">
-    <img style="width: 50%;" src="https://user-images.githubusercontent.com/77745454/158735617-f7c04acc-8512-4ca1-a4f1-fd2bf542fe49.png" alt="">
+    <img style="width: 450px;" src="https://user-images.githubusercontent.com/77745454/158733685-a30bbfd6-ef35-4001-864e-7643e6ed9bc0.png" alt="">
+    <img style="width: 450px;" src="https://user-images.githubusercontent.com/77745454/158735617-f7c04acc-8512-4ca1-a4f1-fd2bf542fe49.png" alt="">
 
 </div>
 
@@ -70,10 +70,10 @@ Os pontos para o rank são obtidos apartir de desafios e testes propostos de aco
 São pequenas atividades que são acessadas caso o usuário deseje obter mais pontos sem precisar cumprir desafios no mapa
 
 ### Links
-O app vai conectar o usuário deretamente as plataformas e ferramentas de estudo através de botões, imagens e links personalizados.
+O app vai conectar o usuário diretamente as plataformas e ferramentas de estudo através de botões, imagens e links personalizados.
 
 
-## O Jogo
+## Jogo
 O jogo é por onde os usuários interagem e cumprem desafios no mundo aberto.<br>
 
 
